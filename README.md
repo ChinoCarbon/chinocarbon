@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-上科大信息学院研0，之后方向应该是嵌入式罢
+上海科技大学信息学院研0，之后方向应该是嵌入式罢
